@@ -1,6 +1,6 @@
 'use client';
 import { useState } from 'react';
-import emailjs from 'emailjs-com'; // Ensure you have this installed: npm install emailjs-com
+import emailjs from 'emailjs-com';
 
 // Replace with your EmailJS credentials
 const SERVICE_ID = 'service_m926909';
