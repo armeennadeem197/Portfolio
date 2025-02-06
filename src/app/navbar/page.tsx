@@ -17,9 +17,9 @@ function Navbar() {
   const navItems = [
     { href: "/", label: "Home" },
     { href: "/about", label: "About" },
+    { href: "/project", label: "Project" },
     { href: "/skill", label: "Skill" },
     { href: "/contact", label: "Contact" },
-    { href: "/project", label: "Project" },
   ]; // Define navItems as an array of objects
 
   return (
