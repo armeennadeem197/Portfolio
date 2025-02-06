@@ -19,6 +19,7 @@ function Navbar() {
     { href: "/about", label: "About" },
     { href: "/skill", label: "Skill" },
     { href: "/contact", label: "Contact" },
+    { href: "/project", label: "Project" },
   ]; // Define navItems as an array of objects
 
   return (

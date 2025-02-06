@@ -22,7 +22,7 @@ function About() {
         . I am passionate about coding and enjoy building user-friendly web applications.
       </p>
       <div className="flex justify-center">
-        <a href="https://resume-snowy-seven-41.vercel.app/">
+        <a href="https://drive.google.com/file/d/1ScDpHJC0bKhINCb5Vsq6J-4ZXC0u0MMZ/view?usp=drive_link">
         <button className="inline-flex text-white bg-purple-900 border-0 py-2 px-6 focus:outline-none hover:bg-purple-500 rounded text-lg">
           Download CV
         </button>
