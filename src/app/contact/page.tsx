@@ -4,7 +4,7 @@ import emailjs from 'emailjs-com'; // Ensure you have this installed: npm instal
 
 // Replace with your EmailJS credentials
 const SERVICE_ID = 'service_m926909';
-const TEMPLATE_ID =  'template_lgd093c';
+const TEMPLATE_ID = 'template_lgd093c';
 const PUBLIC_KEY = '-rDReBrcFuv-5bdMp';
 
 export default function ContactForm() {
